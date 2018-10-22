@@ -1,2 +1,2 @@
 # AIHKStudyGroup
-Hi
+Please change the content of read me file
