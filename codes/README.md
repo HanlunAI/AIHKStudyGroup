@@ -1,6 +1,6 @@
 <h1>ipynb files</h1>
 
-Densenet_cifar_10 - https://drive.google.com/open?id=1BC2lN0bmT5Y8rkI6u2PYUy7aKuTx4ssM
+Densenet-cifar-10 - https://drive.google.com/open?id=1BC2lN0bmT5Y8rkI6u2PYUy7aKuTx4ssM
 <br>
 Densenet-cifar-100 - https://drive.google.com/open?id=1vdrEtuR618Yte8EEel2YWoAbIFCZoPaE
 <br>
