@@ -1,2 +1,2 @@
-# AI Engineers – HK Study Group
+# Prepared for AI Engineers – HK Study Group
 
